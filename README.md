@@ -19,7 +19,7 @@ A 10-task Excel project that turns a raw sales table (200 orders) into rankings,
 
 ## ▶ Demo Video
 
-<a href="https://drive.google.com/file/d/1nbVZaQ3YuRXYZnbgz7qX1-A7oWOnN7sA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1ZoWf-L5RNd7ddbcfo-0cx12FAKfp1qkN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
 </a>
 
